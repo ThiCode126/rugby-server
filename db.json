@@ -8,11 +8,11 @@
   "profile": {
     "name": "typicode"
   },
-  "teams": {
+  "teams": [{
       "id": 1,
       "name": "RC Toulon"
   },{
       "id": 2,
       "name": "Stade Toulousain"
-  }
+  }]
 }

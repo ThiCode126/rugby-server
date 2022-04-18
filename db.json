@@ -5,14 +5,67 @@
       "title": "hello"
     }
   ],
+
   "profile": {
     "name": "typicode"
   },
-  "teams": [{
+
+  "teams": [
+    {
       "id": 1,
       "name": "RC Toulon"
-  },{
+    },
+    {
       "id": 2,
       "name": "Stade Toulousain"
-  }]
+    },
+    {
+      "id": 3,
+      "name": "ASM Clermont"
+    },
+    {
+      "id": 4,
+      "name": "Biarritz Olympique PB"
+    },
+    {
+      "id": 5,
+      "name": "CA Brive"
+    },
+    {
+      "id": 6,
+      "name": "Castres Olympique"
+    },
+    {
+      "id": 7,
+      "name": "LOU Rugby"
+    },
+    {
+      "id": 8,
+      "name": "Montpellier Hérault Rugby"
+    },
+    {
+      "id": 9,
+      "name": "Racing 92"
+    },
+    {
+      "id": 10,
+      "name": "Section Paloise"
+    },
+    {
+      "id": 11,
+      "name": "Stade Français Paris"
+    },
+    {
+      "id": 12,
+      "name": "Stade Rochelais"
+    },
+    {
+      "id": 13,
+      "name": "Union Bordeaux-Bègles"
+    },
+    {
+      "id": 14,
+      "name": "USA Perpignan"
+    }
+  ]
 }

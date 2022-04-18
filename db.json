@@ -7,5 +7,12 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "teams": {
+      "id": 1,
+      "name": "RC Toulon"
+  },{
+      "id": 2,
+      "name": "Stade Toulousain"
   }
 }
